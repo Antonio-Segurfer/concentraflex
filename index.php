@@ -6,7 +6,7 @@
   <link href="css\estilo.css" rel="stylesheet">
 </head>
 <body>
-<p>Hola</p>
+<p>Hola qué tal</p>
 </body>
 </html>
 
